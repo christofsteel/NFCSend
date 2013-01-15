@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC Send</string>
+    <string name="chooser_title">Choose File</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
